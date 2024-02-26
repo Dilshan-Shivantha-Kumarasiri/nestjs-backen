@@ -8,3 +8,8 @@ yarn global add @nestjs/cli
 
 *** checking if install
 nest -v
+
+*** creating the first project using the nest cli
+nest new [project-name]
+nest - command for run nest cli
+new - command for create new project
